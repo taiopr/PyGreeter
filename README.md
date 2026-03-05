@@ -32,21 +32,24 @@ El proyecto incluye ejemplos simples y avanzados para:
 - Recibir respuestas en tiempo real
 - Implementar flujos conversacionales y herramientas
 
-## 📁 Estructura
+## Structure
+The structure separates the source code, examples, and tests, making it easier to maintain and extend the project.
 
-La estructura separa el código fuente, ejemplos y pruebas, facilitando el mantenimiento y la extensión del proyecto.
 
-## 🧪 Testing
+## Testing
 
-Incluye pruebas unitarias con `pytest` para validar el correcto funcionamiento del cliente y la lógica principal.
+It includes unit tests with `pytest` to validate the correct functioning of the client and the main logic.
 
-## 🛠️ Tecnologías
+## Technologies
 
 - Python  
 - Anthropic SDK  
 - python-dotenv  
 - pytest  
 
-## 📄 Licencia
+## License
 
-Proyecto bajo licencia MIT.
+Project under MIT license.
+
+
+
