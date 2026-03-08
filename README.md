@@ -27,10 +27,12 @@ The solution is designed for developers that want to work with Claude in a struc
 
 ## Usage
 
-El proyecto incluye ejemplos simples y avanzados para:
-- Enviar mensajes a Claude
-- Recibir respuestas en tiempo real
-- Implementar flujos conversacionales y herramientas
+The project includes simple and advanced examples for:
+
+- Send messages to Claude
+- Receive real-time answers
+- Implement conversational flows and tools
+
 
 ## Structure
 The structure separates the source code, examples, and tests, making it easier to maintain and extend the project.
